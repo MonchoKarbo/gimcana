@@ -1,4 +1,6 @@
 /**
+* DAM QUEST: El código Oculto
+* Estación 1: "DEBUGGING ZONE"
 * Identificar y corregir los 3 errores.
 * Anotad cada flag na vuestra bitácora de desarrollo en la estación 1
 **/
