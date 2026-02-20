@@ -18,6 +18,6 @@ public class RetoDebug {
 
         // Sólo si se corrigen los bugs anteriores, se llegará a esta línea:
         System.out.println("--- SISTEMA OPERATIVO ---");
-        System.out.println("FLAG: DAM_XINCANA_2024");
+        System.out.println("FLAG: DAM_XINCANA_2026_1");
     }
 }
