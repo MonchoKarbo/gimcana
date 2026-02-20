@@ -6,7 +6,7 @@
 
 Instruciones
 
-- Utiliza Postman y haz unha petición GET.
+- Utiliza Postman y haz unha petición GET para buscar el usuario con nombre **Antonette**.
 - Analiza la respuesta JSON recibida.
 - Navega por la estrutura del objeto para encontrar las coordenadas geográficas.
 
@@ -16,7 +16,7 @@ La tarea
 
 FLAG A ANOTAR
 
-         El valor numérico de la latitud del usuario con ID: 10 (incluyendo el signo negativo si lo tiene).
+         El valor numérico de la **latitud del usuario Antonette** (incluyendo el signo negativo si lo tiene).
 
 Siguiente estación
 
