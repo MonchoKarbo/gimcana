@@ -16,7 +16,7 @@ La tarea
 
 FLAG A ANOTAR
 
-         El valor numérico de la **latitud del usuario Antonette** (incluyendo el signo negativo si lo tiene).
+         El valor numérico de la latitud del usuario Antonette (incluyendo el signo negativo si lo tiene).
 
 Siguiente estación
 
