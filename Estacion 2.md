@@ -1,17 +1,23 @@
-#MISIÓN 2: INTERCEPCIÓN DE DATOS REMOTOS
+MISIÓN 2: INTERCEPCIÓN DE DATOS REMOTOS
 
-Objetivo: Recuperar información crítica de un servicio externo para actualizar el mapa del proyecto.
+**Objetivo:** Recuperar información crítica de un servicio externo para actualizar el mapa del proyecto.
 
-Endpoint objetivo: https://jsonplaceholder.typicode.com/users/
+**Endpoint objetivo:** https://jsonplaceholder.typicode.com/users/
 
-Instruciones:
+Instruciones
 
 - Utiliza Postman y haz unha petición GET.
 - Analiza la respuesta JSON recibida.
 - Navega por la estrutura del objeto para encontrar las coordenadas geográficas.
 
-La tarea: Identifica el valor exacto del campo lat (latitude) que se encuentra dentro del objeto anidado geo.
+La tarea
 
-FLAG A ANOTAR: El valor numérico de la latitud del usuario con ID: 10 (incluyendo el signo negativo si lo tiene).
+        Identifica el valor exacto del campo lat (latitude) que se encuentra dentro del objeto anidado geo.
 
-Siguiente estación: Servidor DAM2
+FLAG A ANOTAR
+
+         El valor numérico de la latitud del usuario con ID: 10 (incluyendo el signo negativo si lo tiene).
+
+Siguiente estación
+
+        Servidor DAM2
